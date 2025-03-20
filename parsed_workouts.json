@@ -1,0 +1,291 @@
+{
+  "conditioning": [
+    {
+      "choices": [
+        {
+          "description": "Run 100 meters @70% effort, walk to the 20-yard line and back. Repeat 12-16 times.",
+          "name": "Tempo Runs",
+          "rest": 20,
+          "sets": 14,
+          "time": 20
+        },
+        {
+          "description": "At 70% effort, perform alternating skaters for 20 seconds on, 20 seconds off. Repeat 12-16 times.",
+          "name": "Slideboard Skaters",
+          "rest": 20,
+          "sets": 14,
+          "time": 20
+        },
+        {
+          "description": "On a stationary bike, cycle @70% effort for 20 seconds on, 20 seconds off at low intensity. Repeat 12-16 times.",
+          "name": "Bike Intervals",
+          "rest": 20,
+          "sets": 14,
+          "time": 20
+        },
+        {
+          "description": "Rowers, Ellipticals, and Treadmills will all work as well. Keep the intensity to ~70% of max.",
+          "name": "Other Cardio Machines",
+          "rest": 20,
+          "sets": 14,
+          "time": 20
+        }
+      ],
+      "name": "Conditioning A"
+    },
+    {
+      "choices": [
+        {
+          "description": "Load up a heavy sled. Push for 8 seconds at max effort. Rest for 52 seconds. Repeat 8 times.",
+          "name": "Sled Drags",
+          "rest": 52,
+          "sets": 8,
+          "time": 8
+        },
+        {
+          "description": "Find a low incline hill. Sprint for 8 seconds at max effort. Rest for 52 seconds. Repeat 8 times.",
+          "name": "Hill Sprints",
+          "rest": 52,
+          "sets": 8,
+          "time": 8
+        },
+        {
+          "description": "Holding dumbbells (equal to 15-20% of bodyweight), perform 5 sets of 8 reps, resting for 60 seconds between sets.",
+          "name": "Weighted Jumps",
+          "rest": 60,
+          "sets": 5,
+          "time": 8
+        },
+        {
+          "description": "Perform 5 sets of 10 reps, resting for 60 seconds between sets.",
+          "name": "Alternating Lateral Bounds",
+          "rest": 60,
+          "sets": 5,
+          "time": 8
+        },
+        {
+          "description": "Rowers, Ellipticals, and Treadmills will work in a pinch. Do 8 seconds on with 52 seconds rest for 8-12 total reps.",
+          "name": "Other Cardio Machines",
+          "rest": 52,
+          "sets": 14,
+          "time": 8
+        }
+      ],
+      "name": "Conditioning B"
+    }
+  ],
+  "workouts": [
+    {
+      "exercises": [
+        {
+          "each": false,
+          "name": "Dumbbell Chest-Supported Row",
+          "reps": 10,
+          "seconds": null,
+          "sets": 2,
+          "weight": null
+        },
+        {
+          "each": false,
+          "name": "Neutral Grip DB Bench Press",
+          "reps": 7,
+          "seconds": null,
+          "sets": 2,
+          "weight": null
+        },
+        {
+          "each": false,
+          "name": "Half Kneeling Landmine Press",
+          "reps": 10,
+          "seconds": null,
+          "sets": 2,
+          "weight": null
+        },
+        {
+          "each": false,
+          "name": "Half-Kneeling 1 Arm Lat Pulldown",
+          "reps": 10,
+          "seconds": null,
+          "sets": 2,
+          "weight": null
+        },
+        {
+          "each": true,
+          "name": "1 Arm Prone YTL Raise",
+          "reps": 5,
+          "seconds": null,
+          "sets": 3,
+          "weight": null
+        },
+        {
+          "each": false,
+          "name": "Band Wall Walks",
+          "reps": 8,
+          "seconds": null,
+          "sets": 2,
+          "weight": null
+        }
+      ],
+      "name": "Upper A"
+    },
+    {
+      "exercises": [
+        {
+          "each": true,
+          "name": "Single Arm DB Row",
+          "reps": 10,
+          "seconds": null,
+          "sets": 3,
+          "weight": null
+        },
+        {
+          "each": true,
+          "name": "One Arm DB Bench",
+          "reps": 6,
+          "seconds": null,
+          "sets": 3,
+          "weight": null
+        },
+        {
+          "each": true,
+          "name": "Chest Tap Pushup",
+          "reps": 10,
+          "seconds": null,
+          "sets": 2,
+          "weight": null
+        },
+        {
+          "each": false,
+          "name": "Kneeling Straight Arm Pulldown",
+          "reps": 10,
+          "seconds": null,
+          "sets": 2,
+          "weight": null
+        },
+        {
+          "each": true,
+          "name": "Three Way Reverse Fly",
+          "reps": 5,
+          "seconds": null,
+          "sets": 3,
+          "weight": null
+        },
+        {
+          "each": false,
+          "name": "Wall Windshield Wipers",
+          "reps": 10,
+          "seconds": null,
+          "sets": 3,
+          "weight": null
+        }
+      ],
+      "name": "Upper B"
+    },
+    {
+      "exercises": [
+        {
+          "each": false,
+          "name": "Box Squat",
+          "reps": 6,
+          "seconds": null,
+          "sets": 2,
+          "weight": null
+        },
+        {
+          "each": true,
+          "name": "Goblet Lateral Lunge",
+          "reps": 8,
+          "seconds": null,
+          "sets": 2,
+          "weight": null
+        },
+        {
+          "each": false,
+          "name": "Romanian Deadlift (Barbell)",
+          "reps": 8,
+          "seconds": null,
+          "sets": 2,
+          "weight": null
+        },
+        {
+          "each": false,
+          "name": "Seated Banded Clamshells",
+          "reps": 15,
+          "seconds": null,
+          "sets": 2,
+          "weight": null
+        },
+        {
+          "each": false,
+          "name": "Weighted Front Plank",
+          "reps": null,
+          "seconds": 30,
+          "sets": 2,
+          "weight": null
+        },
+        {
+          "each": false,
+          "name": "Dumbbell Side Bends",
+          "reps": 10,
+          "seconds": null,
+          "sets": 2,
+          "weight": null
+        }
+      ],
+      "name": "Lower A"
+    },
+    {
+      "exercises": [
+        {
+          "each": false,
+          "name": "Trap Bar Deadlift",
+          "reps": 6,
+          "seconds": null,
+          "sets": 3,
+          "weight": null
+        },
+        {
+          "each": true,
+          "name": "Barbell Bulgarian Split Squat",
+          "reps": 6,
+          "seconds": null,
+          "sets": 2,
+          "weight": null
+        },
+        {
+          "each": true,
+          "name": "Single Leg RDL",
+          "reps": 10,
+          "seconds": null,
+          "sets": 2,
+          "weight": null
+        },
+        {
+          "each": false,
+          "name": "Seated Banded Clamshells",
+          "reps": 15,
+          "seconds": null,
+          "sets": 2,
+          "weight": null
+        },
+        {
+          "each": false,
+          "name": "Weighted Plank",
+          "reps": null,
+          "seconds": 30,
+          "sets": 2,
+          "weight": null
+        },
+        {
+          "each": true,
+          "name": "Half Kneeling Cable Chops",
+          "reps": 10,
+          "seconds": null,
+          "sets": 2,
+          "weight": null
+        }
+      ],
+      "name": "Lower B"
+    }
+  ]
+}

@@ -1,0 +1,219 @@
+{
+  "Upper A": [
+    {
+      "exercise": "Warmup",
+      "sets": null,
+      "reps": null
+    },
+    {
+      "exercise": "Dumbbell Chest-Supported Row",
+      "sets": 2,
+      "reps": 10
+    },
+    {
+      "exercise": "Neutral Grip DB Bench Press",
+      "sets": 2,
+      "reps": 7
+    },
+    {
+      "exercise": "Half Kneeling Landmine Press",
+      "sets": 2,
+      "reps": 10
+    },
+    {
+      "exercise": "Half-Kneeling 1 Arm Lat Pulldown",
+      "sets": 2,
+      "reps": 10
+    },
+    {
+      "exercise": "1 Arm Prone YTL Raise",
+      "sets": 3,
+      "reps": 5,
+      "each": true
+    },
+    {
+      "exercise": "Band Wall Walks",
+      "sets": 2,
+      "reps": 8
+    }
+  ],
+  "Upper B": [
+    {
+      "exercise": "Warmup",
+      "sets": null,
+      "reps": null
+    },
+    {
+      "exercise": "Single Arm DB Row",
+      "sets": 3,
+      "reps": 10,
+      "each": true
+    },
+    {
+      "exercise": "One Arm DB Bench",
+      "sets": 3,
+      "reps": 6,
+      "each": true
+    },
+    {
+      "exercise": "Chest Tap Pushup",
+      "sets": 2,
+      "reps": 10,
+      "each": true
+    },
+    {
+      "exercise": "Kneeling Straight Arm Pulldown",
+      "sets": 2,
+      "reps": 10
+    },
+    {
+      "exercise": "Three Way Reverse Fly",
+      "sets": 3,
+      "reps": 5,
+      "each": true
+    },
+    {
+      "exercise": "Wall Windshield Wipers",
+      "sets": 3,
+      "reps": 10
+    }
+  ],
+  "Lower A": [
+    {
+      "exercise": "Warmup",
+      "sets": null,
+      "reps": null
+    },
+    {
+      "exercise": "Box Squat",
+      "sets": 2,
+      "reps": 6
+    },
+    {
+      "exercise": "Goblet Lateral Lunge",
+      "sets": 2,
+      "reps": 8,
+      "each": true
+    },
+    {
+      "exercise": "Romanian Deadlift (Barbell)",
+      "sets": 2,
+      "reps": 8
+    },
+    {
+      "exercise": "Seated Banded Clamshells",
+      "sets": 2,
+      "reps": 15
+    },
+    {
+      "exercise": "Weighted Front Plank",
+      "sets": 2,
+      "seconds": 30
+    },
+    {
+      "exercise": "Dumbbell Side Bends",
+      "sets": 2,
+      "reps": 10
+    }
+  ],
+  "Lower B": [
+    {
+      "exercise": "Warmup",
+      "sets": null,
+      "reps": null
+    },
+    {
+      "exercise": "Trap Bar Deadlift",
+      "sets": 3,
+      "reps": 6
+    },
+    {
+      "exercise": "Barbell Bulgarian Split Squat",
+      "sets": 2,
+      "reps": 6,
+      "each": true
+    },
+    {
+      "exercise": "Single Leg RDL",
+      "sets": 2,
+      "reps": 10,
+      "each": true
+    },
+    {
+      "exercise": "Seated Banded Clamshells",
+      "sets": 2,
+      "reps": 15
+    },
+    {
+      "exercise": "Weighted Plank",
+      "sets": 2,
+      "seconds": 30
+    },
+    {
+      "exercise": "Half Kneeling Cable Chops",
+      "sets": 2,
+      "reps": 10,
+      "each": true
+    }
+  ],
+  "Conditioning A" : [
+    {
+      "exercise": "Tempo Runs",
+      "sets": 14,
+      "seconds": 20,
+      "rest" : 20,
+      "description": "Run 100 meters @70% effort, walk to the 20-yard line and back. Repeat 12-16 times."
+    },
+    {
+      "exercise": "Slideboard Skaters",
+      "sets": 14,
+      "seconds": 20,
+      "rest" : 20,
+      "description": "At 70% effort, perform alternating skaters for 20 seconds on, 20 seconds off. Repeat 12-16 times."
+    },
+    {
+      "exercise": "Bike Intervals",
+      "sets": 14,
+      "seconds": 20,
+      "rest" : 20,
+      "description": "On a stationary bike, cycle @70% effort for 20 seconds on, 20 seconds off at low intensity. Repeat 12-16 times."
+    },
+    {
+      "exercise": "Other Cardio Machines",
+      "sets": 14,
+      "seconds": 20,
+      "rest" : 20,
+      "description": "Rowers, Ellipticals, and Treadmills will all work as well. Keep the intensity to ~70% of max."
+    }
+  ],
+  "Conditioning B" : [
+    {
+      "exercise": "Sled Drags",
+      "sets": 8,
+      "seconds": 8,
+      "rest": 52,
+      "description": "Load up a heavy sled. Push for 8 seconds at max effort. Rest for 52 seconds. Repeat 8 times."
+    },
+    {
+      "exercise": "Hill Sprints",
+      "sets": 8,
+      "seconds": 8,
+      "rest": 52,
+      "description": "Find a low incline hill. Sprint for 8 seconds at max effort. Rest for 52 seconds. Repeat 8 times."
+    },
+    {
+      "exercise": "Weighted Jumps + Alternating Lateral Bounds",
+      "sets": 5,
+      "seconds": 8,
+      "rest": 60,
+      "description": "Holding dumbbells (equal to 15-20% of bodyweight), perform 5 sets of 8 reps, resting for 60 seconds between sets, then perform 5 sets of 10 reps, resting for 60 seconds between sets."
+    },
+    {
+      "exercise": "Other Cardio Machines",
+      "sets": 14,
+      "seconds": 8,
+      "rest": 52,
+      "description": "Rowers, Ellipticals, and Treadmills will work in a pinch. Do 8 seconds on with 52 seconds rest for 8-12 total reps."
+    }
+  ]
+}
